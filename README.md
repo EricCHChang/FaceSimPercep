@@ -63,6 +63,6 @@ tpOrder(subID, studyID)
     
     ![Matlab dialog box](dialogBox.png)
 
-### Restuls
+### Results
 
 * The results of each participant are stored in the folder `results_ips` (*"ips"* is the study ID you enter in the dialog box)
