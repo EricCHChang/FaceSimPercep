@@ -6,14 +6,14 @@
 
 Participants are presented with pairs of faces and are asked to rate the visual similarity between them using a 7-point scale (1 means very different and 7 means very similar). 
 
-The stimuli consist of 57 face images, leading to a total of 1,596 pairs of faces. Each face pair is presented once in a random order and is divided equally over 14 blocks. 
+The stimuli consist of 57 unfamiliar face images, leading to a total of 1,596 pairs of faces in the task. Each face pair is presented once in a random order and is divided equally over 14 blocks. 
 
-The pairwise similarity ratings will be used as input for perception-based image reconstruction. 
+If you use this task, please cite our work:
+* Chang, C. H., Nemrodov, D., Lee, A. C., & Nestor, A. (2017). Memory and perception-based facial image reconstruction. *Scientific reports, 7*(1), 1-9.
 
-If you are using this task, please cite our work:
 * Chang, C.-H., Nemrodov, D., Drobotenko, N., Sorkhou, M., Nestor, A., & Lee, A. C. H. (2021). Image reconstruction reveals the impact of aging on face perception. *Journal of Experimental Psychology: Human Perception and Performance, 47*(7), 977–991. https://doi.org/10.1037/xhp0000920
 
-See the article above for more details of the task.
+For more details of the task, see the articles above (*Experimental procedures* in Chang et al. 2017 or *Experimental Procedures—Main Task* in Chang et al., 2021).
 
 
 
@@ -35,9 +35,9 @@ See the article above for more details of the task.
 
 ### Preparation
 
-* Put the stimuli (57 face images) in the `stims` folder and run the `create_imgMat.m` script to create a mat file (e.g., `ims_new.mat`) that stores all face images.
+* Put the stimuli (57 unfamiliar face images) in the stims folder and run the `create_imgMat.m` script to create a mat file (e.g., `ims_new.mat`) that stores all face images.
 
-    * Due to copyright restriction, face images and the mat file are not provided here. 
+    * Due to copyright restriction, face images are not provided here, but you can find information of the stimuli (unfam1 to unfam57) used in our work (Chang et al., 2017, 2021) in the excel file [stims_names_match.csv](stims/stims_names_match.csv). 
 
 * To create all pairs of faces and randomize trial order in advance for a given participant, type the following codes in the Matlab Command Window
 
@@ -55,7 +55,7 @@ tpOrder(subID, studyID)
 
 ### Run the face similarity rating task
 
-* To run the face similarity rating task, type the `FaceSimPercep` in the Matlab Command Window
+* To run the face similarity rating task, type `FaceSimPercep` in the Matlab Command Window
     
     * If you want to run the task in debugging mode (i.e., the background will be transparent rather than black, which allows you to see Matlab messages/errors during the task), open the `FaceSimPercep.m` script and change the variable `debugMode` (line 20) from 0 to 1.
 
