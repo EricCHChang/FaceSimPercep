@@ -1,16 +1,16 @@
-﻿'stim011.tif','00120_931230_fa.tif',FERET,Unfam1,,*The names of images are in the order of the 60 unfamiliar neutral faces used in Recon_mem_exp ,
-'stim021.tif','00222_940128_fa.tif',FERET,Unfam2,,*FEI: cannot use them in papers,
-'stim031.tif','109-11.tif',FEI,Unfam3,,"*Radboud: can only be used in academic papers, but not under open access license",
+﻿'stim011.tif','00120_931230_fa.tif',FERET,Unfam1,,References:,
+'stim021.tif','00222_940128_fa.tif',FERET,Unfam2,,FERET,"Phillips, P. J., Moon, H., Rizvi, S. A., & Rauss, P. J. (2000). The FERET evaluation methodology for face-recognition algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 22(10), 1090–1104. https://doi.org/10.1109/34.879790"
+'stim031.tif','109-11.tif',FEI,Unfam3,,,"Phillips, P. J., Wechsler, H., Huang, J., & Rauss, P. J. (1998). The FERET database and evaluation procedure for face-recognition algorithms. Image and Vision Computing, 16(5), 295–306. https://doi.org/10.1016/ S0262-8856(97)00070-X"
 'stim041.tif','118-11.tif',FEI,Unfam4,,,
-'stim051.tif','185-11.tif',FEI,Unfam5,,References for Face Database:,
-'stim061.tif','187-11.tif',FEI,Unfam6,,FERET,"Phillips, P. J., Moon, H., Rizvi, S. A., & Rauss, P. J. (2000). The FERET evaluation methodology for face-recognition algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 22(10), 1090–1104. https://doi.org/10.1109/34.879790"
-'stim071.tif','191-11.tif',FEI,Unfam7,,,"Phillips, P. J., Wechsler, H., Huang, J., & Rauss, P. J. (1998). The FERET database and evaluation procedure for face-recognition algorithms. Image and Vision Computing, 16(5), 295–306. https://doi.org/10.1016/ S0262-8856(97)00070-X"
+'stim051.tif','185-11.tif',FEI,Unfam5,,FEI,"Thomaz, C. E., & Giraldi, G. A. (2010). A new ranking method for principal components analysis and its application to face image analysis. Image and Vision Computing, 28(6), 902–913. https://doi.org/10.1016/j .imavis.2009.11.005"
+'stim061.tif','187-11.tif',FEI,Unfam6,,,
+'stim071.tif','191-11.tif',FEI,Unfam7,,Radboud,"Langner, O., Dotsch, R., Bijlstra, G., Wigboldus, D. H., Hawk, S. T., & van Knippenberg, A. (2010). Presentation and validation of the Radboud Faces Database. Cognition and Emotion, 24(8), 1377–1388. https://doi .org/10.1080/02699930903485076"
 'stim081.tif','192-11.tif',FEI,Unfam8,,,
-'stim091.tif','193-11.tif',FEI,Unfam9,,FEI,"Thomaz, C. E., & Giraldi, G. A. (2010). A new ranking method for principal components analysis and its application to face image analysis. Image and Vision Computing, 28(6), 902–913. https://doi.org/10.1016/j .imavis.2009.11.005"
+'stim091.tif','193-11.tif',FEI,Unfam9,,AR,"Martinez, A. R., & Benavente, R. (1998). The AR face database. CVC Technical Report."
 'stim101.tif','20-11.tif',FEI,Unfam10,,,
-'stim111.tif','27-11.tif',FEI,Unfam11,,Radboud,"Langner, O., Dotsch, R., Bijlstra, G., Wigboldus, D. H., Hawk, S. T., & van Knippenberg, A. (2010). Presentation and validation of the Radboud Faces Database. Cognition and Emotion, 24(8), 1377–1388. https://doi .org/10.1080/02699930903485076"
+'stim111.tif','27-11.tif',FEI,Unfam11,,,
 'stim121.tif','32-11.tif',FEI,Unfam12,,,
-'stim131.tif','36-11.tif',FEI,Unfam13,,AR,"Martinez, A. R., & Benavente, R. (1998). The AR face database. CVC Technical Report."
+'stim131.tif','36-11.tif',FEI,Unfam13,,,
 'stim141.tif','44-11.tif',FEI,Unfam14,,,
 'stim151.tif','45-11.tif',FEI,Unfam15,,,
 'stim161.tif','50-11.tif',FEI,Unfam16,,,

@@ -9,7 +9,7 @@ Participants are presented with pairs of faces and are asked to rate the visual 
 The stimuli consist of 57 unfamiliar face images, leading to a total of 1,596 pairs of faces in the task. Each face pair is presented once in a random order and is divided equally over 14 blocks. 
 
 If you use this task, please cite our work:
-* Chang, C. H., Nemrodov, D., Lee, A. C., & Nestor, A. (2017). Memory and perception-based facial image reconstruction. *Scientific reports, 7*(1), 1-9.
+* Chang, C. H., Nemrodov, D., Lee, A. C., & Nestor, A. (2017). Memory and perception-based facial image reconstruction. *Scientific reports, 7*(1), 1-9. https://doi.org/10.1038/s41598-017-06585-2
 
 * Chang, C.-H., Nemrodov, D., Drobotenko, N., Sorkhou, M., Nestor, A., & Lee, A. C. H. (2021). Image reconstruction reveals the impact of aging on face perception. *Journal of Experimental Psychology: Human Perception and Performance, 47*(7), 977–991. https://doi.org/10.1037/xhp0000920
 
